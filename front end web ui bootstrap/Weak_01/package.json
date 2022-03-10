@@ -1,7 +1,7 @@
 {
   "name": "git_node_test",
   "version": "1.0.0",
-  "description": "This is just for testing purpose of node and git",
+  "description": "This is for testing pourpose for git and node",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/TechnicalAmanjeet/Full-stack-web-dev-with-react-specialization.git"
   },
-  "author": "Amanjeet kumar",
+  "author": "Technical Amanjeet",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/TechnicalAmanjeet/Full-stack-web-dev-with-react-specialization/issues"
