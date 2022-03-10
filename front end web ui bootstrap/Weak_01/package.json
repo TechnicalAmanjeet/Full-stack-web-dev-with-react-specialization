@@ -18,7 +18,4 @@
     "url": "https://github.com/TechnicalAmanjeet/Full-stack-web-dev-with-react-specialization/issues"
   },
   "homepage": "https://github.com/TechnicalAmanjeet/Full-stack-web-dev-with-react-specialization#readme",
-  "devDependencies": {
-    "lite-server": "^2.6.1"
-  }
 }
