@@ -1,0 +1,11 @@
+*{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+main{
+    background-color: rgb(218, 206, 206);
+}
