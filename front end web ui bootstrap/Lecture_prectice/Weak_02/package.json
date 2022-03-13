@@ -1,0 +1,20 @@
+{
+  "name": "weak02_prectice",
+  "version": "1.0.0",
+  "description": "In this node project i will be practicing all content of weak2",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run app",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "app": "lite-server"
+  },
+  "author": "Technical Amanjeet",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  },
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "bootstrap-icons": "^1.8.1"
+  }
+}
