@@ -2,9 +2,35 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+
+a{
+    text-decoration: none;
+    /* font-size: 1.2em; */
+}
+
+.breadcrumb li{
+    /* font-size: 1.2em; */
+}
+
+body{
+    padding: 70px 0 0 0;
+    z-index: 0;
 }
 
 nav{
     background-color: rgb(73, 73, 131);
+}
+
+.navbar-brand{
+    font-size: 1.5em;
+}
+
+.breadcrumb{
+    background-color: rgb(233, 224, 240);
+    /* opacity: 0.6; */
+    color: red;
 }
 
